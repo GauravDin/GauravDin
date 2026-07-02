@@ -155,7 +155,7 @@ Built an adaptive tutoring platform using Retrieval-Augmented Generation and lea
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/gaurav-dinesh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
