@@ -8,7 +8,7 @@ Building production-ready AI systems using Large Language Models, Knowledge Grap
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Turning+ideas+into+intelligent+systems.;Building+AI+that+solves+real-world+problems.;Engineering+the+future+with+LLMs+and+AI.;Learning.+Building.+Innovating.;From+ideas+to+production-ready+AI."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Turning+ideas+into+intelligent+systems...">
 
 </div>
 
@@ -63,6 +63,12 @@ Designed a Neo4j-based knowledge graph that transforms enterprise metadata into 
 ### 🧠 VARK Cognitive Tutor (RAG + Personalization)
 
 Built an adaptive tutoring platform using Retrieval-Augmented Generation and learning-style detection to generate personalized educational responses.
+
+---
+
+### 🚚 Freight Mail Automation System (Intelligent Logistics Automation)
+
+Developed an automated freight market intelligence system with PDF extraction, region-wise email automation, and intelligent reply tracking for logistics operations.
 
 ---
 
