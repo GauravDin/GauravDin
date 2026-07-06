@@ -2,7 +2,7 @@
 
 # Hi, I'm Gaurav D 👋
 
-### AI Engineer • Agentic AI • GraphRAG • LLM Systems • Backend AI
+### AI Engineer • RAG systems • Agentic AI • LLM Systems • Backend AI
 
 Building production-ready AI systems using Large Language Models, Knowledge Graphs, and Cloud Technologies.
 
@@ -169,7 +169,7 @@ Developed an automated freight market intelligence system with PDF extraction, r
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://gauravdinesh-ai-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -179,6 +179,6 @@ Developed an automated freight market intelligence system with PDF extraction, r
 
 <div align="center">
 
-> **"The best AI systems don't just generate answers—they solve real problems."**
+> **"The best AI systems don't just generate answers - they solve real problems."**
 
 </div>
